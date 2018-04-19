@@ -34,11 +34,12 @@ __Off-site Organizers__
 * Daniel Sussman
   * Department of Mathematics and Statistics, Boston University
 
-__Funding__ The meeting is graciously supported by the
+__Sponsors__ The meeting is graciously supported by the
   
-* <img src="https://www.nsfgrfp.org/images/nsf-logo.png" alt="NSF" style="height: 80px;"/> National Science Foundation,
-* &nbsp;&nbsp;&nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/PIMS_logo.png" alt="PIMS" style="height: 65px;"/> &nbsp;&nbsp; Pacific Institute for the Mathematical Sciences, and
-* &nbsp;&nbsp; <img src="https://ssc.ca/sites/ssc/files/data/Members/public/about/SARGC/canssi_logo_web.png" alt="CANSS" style="height: 65px;"/> &nbsp;  Canadian Statistical Sciences Institute.
+* <img src="https://www.nsfgrfp.org/images/nsf-logo.png" alt="NSF" style="height: 80px;"/> National Science Foundation
+* &nbsp;&nbsp;&nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/PIMS_logo.png" alt="PIMS" style="height: 65px;"/> &nbsp;&nbsp; Pacific Institute for the Mathematical Sciences
+* &nbsp;&nbsp; <img src="https://ssc.ca/sites/ssc/files/data/Members/public/about/SARGC/canssi_logo_web.png" alt="CANSS" style="height: 65px;"/> &nbsp;  Canadian Statistical Sciences Institute
+* &nbsp;&nbsp; <img src="{{ site.baseurl }}/image/sfu.jpg" alt="SFU" style="height: 65px;"/> &nbsp;  Simon Fraser University
 
 
 
@@ -54,8 +55,8 @@ __Funding__ The meeting is graciously supported by the
 * [Jennifer Hill](https://steinhardt.nyu.edu/faculty/Jennifer_L_Hill), New York University
 * [Philip Ernst](http://www.stat.rice.edu/~pe6/), Rice University (Tweedie Award Winner)
 
+<!---
 ## Application Information
-
 
 <div class="applybutton"><a href="{{ site.baseurl }}/conferences/nrc_application.html">Apply Now</a></div>
 
@@ -78,10 +79,31 @@ The selected applicants will be asked to pay a small ($100) registration fee to 
 
 
 To apply, fill out the [form linked above]({{ site.baseurl }}/conferences/nrc_application.html).
+--->
+
+
+
+### Submit Abstract
+
+To submit your abstract, fill out the [form linked  here]({{ site.baseurl }}/conferences/nrc_submission.html).
+
+ If you have been accepted to participate in 2018's NRC, please submit your title and  abstract using the link below. __For those who plan to give a talk, you are also encouraged to present a poster. For those who choose poster only, you will have an opportunity to give a one-minute flash talk to advertise your work.__
+
+<div class="applybutton"><a href="{{ site.baseurl }}/conferences/nrc_submission.html">Submit Now</a></div>
+
+__Deadline: July 1st, 2018__ <br>
+If you fail to meet the deadline you risk being left out of the program. 
+
+
+
  <!-- or alternatively, submit a Letter of Interest (PDF only) and a Curriculum Vitae (PDF only) via email. -->
 <!-- In your letter of interest briefly explain your motivation for participating in this meeting, as well as clearly stating:  -->
-You will need to provide the following information:
 
+ <!---
+You will need to provide the following information:
+ --->
+
+<!---
 * Your full name
 * Your institution 
 * Your email address
@@ -91,16 +113,27 @@ You will need to provide the following information:
 * Your reasons for attending.
 * Title of your presentation
 * Abstract for your presentation 
-  * 250 words maximum
+  * 250 words maximum 
+--->
 
-<!-- Email both files together please to  [imsnrc2018@gmail.com](mailto:	imsnrc2018@gmail.com) with subject line "NRC 2018 application". Thank you. -->
+<!--- Email both files together please to  [imsnrc2018@gmail.com](mailto:	imsnrc2018@gmail.com) with subject line "NRC 2018 application". Thank you. -->
 
 
 ## Logistics
 
 ### Hotel
 
-Conference participants will be staying at the Simon Hotel or the townhouse units of the [SFU Guest Accommodations](http://www.sfu.ca/stayhere.html). Rooms have been  reserved and will be paid as a group for all the participants for three days (Arrival date: July 25, 2018; Departure date: July 28, 2018). If you want to arrive earlier or stay later, you can submit an individual reservation request here: [SFU Guest Accommodations](http://www.sfu.ca/stayhere/reservation.html) by selecting "individual guest booking" and clicking on "request a booking." You can then fill out the page and will need to submit a credit card that will be stored in a secure online vault until the day before your arrival. It would be helpful for the front desk of SFU Guest Accommodations if you indicate in the comment section that you are part of the 20th IMS New Researchers Conference, but are booking a personal stay on either end of the conference. If you are by yourselves, it is recommended that you book a Private Residence Room on the individual traveler floor, and can then room switch when the booking with the conference begins to your townhouse room. 
+Conference participants will be staying at the Simon Hotel or the townhouse units of the [SFU Guest Accommodations](http://www.sfu.ca/stayhere.html). Rooms have been reserved and will be paid as a group for all the participants for three days (Check in: July 25, 2018; Check out: July 28, 2018).  __Please note you don't need to book or pay for these three days.__
+
+<!---
+__If you decide to stay at SFU Guest Accommodations (Check in: July 25, 2018; Check out: July 28, 2018), please fill in the form below before May 8th__
+--->
+
+<!---
+<div class="applybutton"><a href="{{ site.baseurl }}/conferences/nrc_room.html">Room Registration Form</a></div>
+--->
+
+__If you want to arrive earlier or stay later__, you can submit an individual reservation request here: [SFU Guest Accommodations](http://www.sfu.ca/stayhere/reservation.html) by selecting "individual guest booking" and clicking on "request a booking." You can then fill out the page and will need to submit a credit card that will be stored in a secure online vault until the day before your arrival. Please indicate in the comment section that you are part of the 20th IMS New Researchers Conference, but are booking a personal stay on either end of the conference. To obtain a discount,  you can quote __SIMONALUMNI__ in the comment section.  If you are by yourselves, it is recommended that you book a Private Dorm Room, and can then switch room  to your townhouse room when the booking with the conference begins. 
 
 ### Maps and Directions
 
@@ -118,19 +151,12 @@ This is part of [KEY, SFU's Big Data Initiative](http://www.sfu.ca/key/contact-u
 
 
 
-<!-- If you have been accepted to participate in 2017's NRC, please submit your title, abstract, and flash talk slide using the link below.
-
-<div class="applybutton"><a href="{{ site.baseurl }}/conferences/nrc_submission.html">Submit Now</a></div>
-
-__Deadline: July 24, 2017__ <br>
-If you fail to meet the deadline you risk being left out of the program. -->
-
 
 
 
 
 ## Information on Past Meetings
-
+<!---
 [Application Instructions for Recent Meetings]({{ site.baseurl }}/conferences/nrc_application_info.html)
-
+--->
 [Websites for Past Meetings]({{ site.baseurl }}/conferences/nrc_past_meetings.html)
