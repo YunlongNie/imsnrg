@@ -125,13 +125,13 @@ You will need to provide the following information:
 
 Conference participants will be staying at the Simon Hotel or the townhouse units of the [SFU Guest Accommodations](http://www.sfu.ca/stayhere.html). Rooms have been reserved and will be paid as a group for all the participants for three days (Check in: July 25, 2018; Check out: July 28, 2018).  __Please note you don't need to book or pay for these three days.__
 
-<!---
-__If you decide to stay at SFU Guest Accommodations (Check in: July 25, 2018; Check out: July 28, 2018), please fill in the form below before May 8th__
---->
 
-<!---
+__If you decide to stay at SFU Guest Accommodations (Check in: July 25, 2018; Check out: July 28, 2018), please fill in the form below before May 8th__
+
+
+
 <div class="applybutton"><a href="{{ site.baseurl }}/conferences/nrc_room.html">Room Registration Form</a></div>
---->
+
 
 __If you want to arrive earlier or stay later__, you can submit an individual reservation request here: [SFU Guest Accommodations](http://www.sfu.ca/stayhere/reservation.html) by selecting "individual guest booking" and clicking on "request a booking." You can then fill out the page and will need to submit a credit card that will be stored in a secure online vault until the day before your arrival. Please indicate in the comment section that you are part of the 20th IMS New Researchers Conference, but are booking a personal stay on either end of the conference. To obtain a discount,  you can quote __SIMONALUMNI__ in the comment section.  If you are by yourselves, it is recommended that you book a Private Dorm Room, and can then switch room  to your townhouse room when the booking with the conference begins. 
 
